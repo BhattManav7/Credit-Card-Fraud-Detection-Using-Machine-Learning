@@ -1,9 +1,6 @@
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
 
-- **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- **Details**: The dataset contains **284,807** transactions made by European cardholders in September 2013. Out of these, **492** are fraudulent.
-- **Features**: 31 total columns — `Time`, `Amount`, `Class (target)`, and 28 anonymized PCA-transformed features (`V1` to `V28`).
-
+- **Data Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ---
 
 ##  Exploratory Data Analysis (EDA)
