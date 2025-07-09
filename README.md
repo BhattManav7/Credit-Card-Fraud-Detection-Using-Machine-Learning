@@ -27,8 +27,8 @@
 | K-Nearest Neighbors (KNN) |  Trained |
 | Decision Tree Classifier |  Trained |
 
-- Evaluated using **Confusion Matrix**, **Precision**, **Recall**, **F1-score**, and **ROC-AUC curve**
-- Hyperparameter tuning with GridSearchCV for select models
+- Evaluated using **Confusion Matrix**, **Precision**, **Recall**, **F1-score**
+
 
 ---
 
